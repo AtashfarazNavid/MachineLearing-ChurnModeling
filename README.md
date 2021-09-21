@@ -1,5 +1,11 @@
-# NavidAt
-Analysis (EDA - Visualization)
+# Churn Classification
+
+## AutoML file:
+To use this file, you need to install the Pycaret Library. Go to Site X for more information. [here](https://pycaret.org/).
+
+ 
+ 
+# Analysis (EDA - Visualization)
 
 Data Preprocessing 
 
